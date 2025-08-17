@@ -91,14 +91,6 @@ for pdf in pdfs:
 
 ---
 
-## 🖼️ Sample Output (Screenshot)
-
-> Example: Converting `sample.pdf` to `word_sample.txt`
-
-![Sample Output Screenshot](https://via.placeholder.com/600x300.png?text=Sample+Output+Screenshot)
-
----
-
 ## ⚠️ Notes
 
 * This script works best with text-based PDFs. For scanned/image PDFs, you’ll need OCR tools like **pytesseract** instead.
